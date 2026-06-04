@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pptx
+*.docx
+*.pdf
+*.mp4
+*.skill
+Stellar_5.0_L3_Training/
+cvdabbeele_repos.md
+test_files/
+test_output/
